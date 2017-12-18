@@ -12,8 +12,8 @@ class MyQ:
     DEVICE_LIST_ENDPOINT = "api/v4/UserDeviceDetails/Get"
     DEVICE_SET_ENDPOINT = "api/v4/DeviceAttribute/PutDeviceAttribute"
 
-    username = "<MYQ_LOGIN_USERNAME>"
-    password = "<MYQ_LOGIN_PASSWORD>"
+    username = "abirami.vaishnavi@gmail.com"
+    password = "Comcast99!"
 
     myq_userid                  = ""
     myq_security_token          = ""
