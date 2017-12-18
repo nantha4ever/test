@@ -5,9 +5,9 @@ import time
 
 class MyQ:
 
-    APP_ID = "Vj8pQggXLhLy0WHahglCD4N1nAkkXQtGYpq2HrHD7H1nvmbT55KqtN6RSF4ILB/i"
+    APP_ID = "cqM1m6GH0FAX9lc6izKSZLOaxlZ3oOvdNN+Au/tP3Ym03VN2w5zf4x0tNUB7EIoD"
     LOCALE = "en"
-    HOST_URI = "myqexternal.myqdevice.com"
+    HOST_URI = "myqexternal-pp.myqdevice.com"
     LOGIN_ENDPOINT = "api/v4/User/Validate"
     DEVICE_LIST_ENDPOINT = "api/v4/UserDeviceDetails/Get"
     DEVICE_SET_ENDPOINT = "api/v4/DeviceAttribute/PutDeviceAttribute"
